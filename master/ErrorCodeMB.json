@@ -1002,6 +1002,12 @@
     "ErrorMessageType": 3
   },
   {
+    "Id": 132013,
+    "IsIgnore": null,
+    "Memo": "バトルログの有効期限が切れています",
+    "ErrorMessageType": 3
+  },
+  {
     "Id": 141000,
     "IsIgnore": null,
     "Memo": null,
@@ -2061,13 +2067,13 @@
     "Id": 242016,
     "IsIgnore": null,
     "Memo": null,
-    "ErrorMessageType": 2
+    "ErrorMessageType": 3
   },
   {
     "Id": 242017,
     "IsIgnore": null,
     "Memo": null,
-    "ErrorMessageType": 2
+    "ErrorMessageType": 3
   },
   {
     "Id": 251000,

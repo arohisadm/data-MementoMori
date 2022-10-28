@@ -337,7 +337,7 @@
     "GachaSelectListType": 1,
     "GachaSelectListId": 1,
     "GachaCaseFlags": 0,
-    "GachaLimitDayFromCreatePlayer": 7,
+    "GachaLimitDayFromCreatePlayer": 9,
     "StartTimeFixJST": "2020-01-01 00:00:00",
     "EndTimeFixJST": "2100-01-01 00:00:00"
   },

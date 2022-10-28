@@ -26,25 +26,37 @@
   {
     "Id": 3,
     "IsIgnore": null,
-    "Memo": "プレイしていたはずのデータが消えた",
+    "Memo": "エラーが出て進行できない",
     "QuestionTitleKey": "[QuestionTitleKey3]",
     "TransferUrl": {
-      "enUS": "https://mementomori.zendesk.com/hc/en-us/articles/11642084060057",
-      "jaJP": "https://mementomori.zendesk.com/hc/ja/articles/11642084060057",
-      "koKR": "https://mementomori.zendesk.com/hc/ko/articles/11642084060057",
-      "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/11642084060057"
+      "enUS": "https://mementomori.zendesk.com/hc/en-us/articles/11731548991385",
+      "jaJP": "https://mementomori.zendesk.com/hc/ja/articles/11731548991385",
+      "koKR": "https://mementomori.zendesk.com/hc/ko/articles/11731548991385",
+      "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/11731548991385"
     }
   },
   {
     "Id": 4,
     "IsIgnore": null,
-    "Memo": "達成したはずのミッション報酬が受け取れない",
+    "Memo": "100連したのに確定のフォルティナが出現しない",
     "QuestionTitleKey": "[QuestionTitleKey4]",
     "TransferUrl": {
-      "enUS": "https://mementomori.zendesk.com/hc/en-us/articles/11651280590489",
-      "jaJP": "https://mementomori.zendesk.com/hc/ja/articles/11651280590489",
-      "koKR": "https://mementomori.zendesk.com/hc/ko/articles/11651280590489",
-      "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/11651280590489"
+      "enUS": "https://mementomori.zendesk.com/hc/en-us/articles/11754862908569",
+      "jaJP": "https://mementomori.zendesk.com/hc/ja/articles/11754862908569",
+      "koKR": "https://mementomori.zendesk.com/hc/ko/articles/11754862908569",
+      "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/11754862908569"
+    }
+  },
+  {
+    "Id": 5,
+    "IsIgnore": null,
+    "Memo": "アプリを日本でダウンロードしたのに違う国のサーバーになっている",
+    "QuestionTitleKey": "[QuestionTitleKey5]",
+    "TransferUrl": {
+      "enUS": "https://mementomori.zendesk.com/hc/en-us/articles/11658365874585",
+      "jaJP": "https://mementomori.zendesk.com/hc/ja/articles/11658365874585",
+      "koKR": "https://mementomori.zendesk.com/hc/ko/articles/11658365874585",
+      "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/11658365874585"
     }
   }
 ]

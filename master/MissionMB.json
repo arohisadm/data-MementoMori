@@ -20672,5 +20672,73 @@
     "TransitionDestination": 101,
     "EndTime": "2100-01-01 00:00:00",
     "StartTime": "2020-01-01 00:00:00"
+  },
+  {
+    "Id": 674,
+    "IsIgnore": null,
+    "Memo": "初_時空の洞窟バグ補填用① 戦闘力",
+    "AchievementType": 7011000,
+    "DescriptionKey": null,
+    "MissionType": 311,
+    "NameKey": "[MissionName674]",
+    "OpeningPeriod": 1,
+    "RequireValue": 1,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 1500000,
+          "ItemId": 1,
+          "ItemType": 3
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 12500,
+          "ItemId": 13,
+          "ItemType": 13
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "TransitionDestination": 701,
+    "EndTime": "2022-11-3 03:59:59",
+    "StartTime": "2020-01-01 00:00:00"
+  },
+  {
+    "Id": 675,
+    "IsIgnore": null,
+    "Memo": "初_時空の洞窟バグ補填用② 戦闘力",
+    "AchievementType": 7011000,
+    "DescriptionKey": null,
+    "MissionType": 311,
+    "NameKey": "[MissionName675]",
+    "OpeningPeriod": 1,
+    "RequireValue": 2,
+    "RewardList": [
+      {
+        "Item": {
+          "ItemCount": 2000000,
+          "ItemId": 1,
+          "ItemType": 3
+        },
+        "RarityFlags": 0
+      },
+      {
+        "Item": {
+          "ItemCount": 15000,
+          "ItemId": 13,
+          "ItemType": 13
+        },
+        "RarityFlags": 0
+      }
+    ],
+    "SortOrderA": 1,
+    "SortOrderB": 1,
+    "TransitionDestination": 701,
+    "EndTime": "2022-11-3 03:59:59",
+    "StartTime": "2020-01-01 00:00:00"
   }
 ]
