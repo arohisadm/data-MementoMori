@@ -382,7 +382,7 @@
   {
     "Id": 21,
     "IsIgnore": null,
-    "Memo": "フォルティナ新キャラガチャ 10/21 15:00 ~ 11/07 14:59:59",
+    "Memo": "フォルティナ新キャラガチャ 10/21 21:15 ~ 11/07 14:59,",
     "DisplayOrder": 191,
     "ElementType": 0,
     "GachaCaseUiId": 20,
@@ -395,7 +395,7 @@
     "GachaSelectListId": 1,
     "GachaCaseFlags": 0,
     "GachaLimitDayFromCreatePlayer": 0,
-    "StartTimeFixJST": "2022-10-21 18:00:00",
+    "StartTimeFixJST": "2022-10-21 21:15:00",
     "EndTimeFixJST": "2022-11-07 14:59:59"
   },
   {
