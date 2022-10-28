@@ -102,6 +102,12 @@
     "ErrorMessageType": 2
   },
   {
+    "Id": 10010,
+    "IsIgnore": null,
+    "Memo": null,
+    "ErrorMessageType": 2
+  },
+  {
     "Id": 10101,
     "IsIgnore": null,
     "Memo": null,
