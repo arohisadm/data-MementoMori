@@ -401,7 +401,7 @@
   {
     "Id": 22,
     "IsIgnore": null,
-    "Memo": "ベル新キャラガチャ 10/31 15:00 ~ 11/15 14:59",
+    "Memo": "ベル新キャラガチャ 11/01 15:30 ~ 11/15 14:29",
     "DisplayOrder": 191,
     "ElementType": 0,
     "GachaCaseUiId": 21,
@@ -414,8 +414,8 @@
     "GachaSelectListId": 1,
     "GachaCaseFlags": 0,
     "GachaLimitDayFromCreatePlayer": 0,
-    "StartTimeFixJST": "2022-10-31 15:00:00",
-    "EndTimeFixJST": "2022-11-15 14:59:59"
+    "StartTimeFixJST": "2022-11-01 15:30:00",
+    "EndTimeFixJST": "2022-11-15 14:29:59"
   },
   {
     "Id": 23,
