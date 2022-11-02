@@ -1509,7 +1509,7 @@
     "Id": 191000,
     "IsIgnore": null,
     "Memo": null,
-    "ErrorMessageType": 2
+    "ErrorMessageType": 1
   },
   {
     "Id": 191001,
@@ -2097,7 +2097,7 @@
     "Id": 251002,
     "IsIgnore": null,
     "Memo": "ギルドから除名されました",
-    "ErrorMessageType": 3
+    "ErrorMessageType": 1
   },
   {
     "Id": 251003,

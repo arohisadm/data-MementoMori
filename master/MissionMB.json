@@ -19762,7 +19762,7 @@
     "RewardList": [
       {
         "Item": {
-          "ItemCount": 10,
+          "ItemCount": 100,
           "ItemId": 1,
           "ItemType": 1
         },
@@ -19770,7 +19770,7 @@
       },
       {
         "Item": {
-          "ItemCount": 10,
+          "ItemCount": 1,
           "ItemId": 15,
           "ItemType": 10
         },
@@ -19778,7 +19778,7 @@
       },
       {
         "Item": {
-          "ItemCount": 10,
+          "ItemCount": 1,
           "ItemId": 10,
           "ItemType": 10
         },
@@ -20591,48 +20591,6 @@
   },
   {
     "Id": 672,
-    "IsIgnore": null,
-    "Memo": "復帰_1500個貢献メダルを獲得する",
-    "AchievementType": 1010100,
-    "DescriptionKey": null,
-    "MissionType": 402,
-    "NameKey": "[MissionName673]",
-    "OpeningPeriod": 0,
-    "RequireValue": 1500,
-    "RewardList": [
-      {
-        "Item": {
-          "ItemCount": 4,
-          "ItemId": 19,
-          "ItemType": 10
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 2500,
-          "ItemId": 14,
-          "ItemType": 13
-        },
-        "RarityFlags": 0
-      },
-      {
-        "Item": {
-          "ItemCount": 3,
-          "ItemId": 2,
-          "ItemType": 16
-        },
-        "RarityFlags": 0
-      }
-    ],
-    "SortOrderA": 1,
-    "SortOrderB": 1,
-    "TransitionDestination": 101,
-    "EndTime": "2100-01-01 00:00:00",
-    "StartTime": "2020-01-01 00:00:00"
-  },
-  {
-    "Id": 673,
     "IsIgnore": null,
     "Memo": "復帰_1500個貢献メダルを獲得する",
     "AchievementType": 1010100,
