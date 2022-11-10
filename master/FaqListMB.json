@@ -58,5 +58,17 @@
       "koKR": "https://mementomori.zendesk.com/hc/ko/articles/11658365874585",
       "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/11658365874585"
     }
+  },
+  {
+    "Id": 6,
+    "IsIgnore": null,
+    "Memo": "ショップから「〇〇ギフト」や「〇〇の心片」を買ったのにダイヤやコインだけ減ってアイテムが反映されません",
+    "QuestionTitleKey": "[QuestionTitleKey6]",
+    "TransferUrl": {
+      "enUS": "https://mementomori.zendesk.com/hc/en-us/articles/12192441644441",
+      "jaJP": "https://mementomori.zendesk.com/hc/ja/articles/12192441644441",
+      "koKR": "https://mementomori.zendesk.com/hc/ko/articles/12192441644441",
+      "zhTW": "https://mementomori.zendesk.com/hc/zh-tw/articles/12192441644441"
+    }
   }
 ]

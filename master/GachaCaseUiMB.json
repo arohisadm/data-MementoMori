@@ -1974,12 +1974,7 @@
       "zhTW": "可召喚稀有度N～SR的角色"
     },
     "GachaBonusGaugeType": 0,
-    "GachaButtonMessage": {
-      "enUS": "1 SR Guaranteed",
-      "jaJP": "SR1体以上確定",
-      "koKR": "SR 1명 이상 확정!",
-      "zhTW": "保證獲得至少1名SR角色"
-    },
+    "GachaButtonMessage": null,
     "HeaderItem1": {
       "ItemCount": 1,
       "ItemId": 1,
