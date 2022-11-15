@@ -345,7 +345,7 @@
     "Id": 19,
     "IsIgnore": null,
     "Memo": "チュートリアルガチャ",
-    "DisplayOrder": 193,
+    "DisplayOrder": 194,
     "ElementType": 0,
     "GachaCaseUiId": 18,
     "GachaCategoryType": 0,
@@ -364,7 +364,7 @@
     "Id": 20,
     "IsIgnore": null,
     "Memo": "初回10連SR確定ガチャ",
-    "DisplayOrder": 193,
+    "DisplayOrder": 194,
     "ElementType": 0,
     "GachaCaseUiId": 19,
     "GachaCategoryType": 0,
@@ -433,8 +433,8 @@
     "GachaSelectListId": 1,
     "GachaCaseFlags": 0,
     "GachaLimitDayFromCreatePlayer": 0,
-    "StartTimeFixJST": "2022-11-15 15:00:00",
-    "EndTimeFixJST": "2022-11-30 14:59:59"
+    "StartTimeFixJST": "2022-11-15 17:30:00",
+    "EndTimeFixJST": "2022-11-30 14:29:59"
   },
   {
     "Id": 24,
