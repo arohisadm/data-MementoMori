@@ -4597,7 +4597,7 @@
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
-        "DescriptionKey": "",
+        "DescriptionKey": null,
         "CharacterLevel": 1,
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
@@ -4607,7 +4607,7 @@
         ]
       }
     ],
-    "NameKey": "",
+    "NameKey": null,
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 0
   },
@@ -4618,7 +4618,7 @@
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
-        "DescriptionKey": "",
+        "DescriptionKey": null,
         "CharacterLevel": 1,
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
@@ -4628,7 +4628,7 @@
         ]
       }
     ],
-    "NameKey": "",
+    "NameKey": null,
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 0
   },
@@ -4639,7 +4639,7 @@
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
-        "DescriptionKey": "",
+        "DescriptionKey": null,
         "CharacterLevel": 1,
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
@@ -4649,7 +4649,7 @@
         ]
       }
     ],
-    "NameKey": "",
+    "NameKey": null,
     "SkillInitCoolTime": 0,
     "SkillMaxCoolTime": 0
   },
@@ -5693,13 +5693,21 @@
         "SubSetSkillIds": [
           47001001,
           47001002,
+          47001003,
           47001002,
+          47001003,
           47001002,
+          47001003,
           47001002,
+          47001003,
           47001002,
+          47001003,
           47001002,
+          47001003,
           47001002,
-          47001003
+          47001003,
+          47001004,
+          47001011
         ]
       },
       {
@@ -5709,15 +5717,23 @@
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          47001201,
+          47001001,
           47001202,
+          47001003,
           47001202,
+          47001003,
           47001202,
+          47001003,
           47001202,
+          47001003,
           47001202,
+          47001003,
           47001202,
+          47001003,
           47001202,
-          47001003
+          47001003,
+          47001204,
+          47001011
         ]
       },
       {
@@ -5727,15 +5743,23 @@
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          47001301,
+          47001001,
           47001302,
+          47001003,
           47001302,
+          47001003,
           47001302,
+          47001003,
           47001302,
+          47001003,
           47001302,
+          47001003,
           47001302,
+          47001003,
           47001302,
-          47001303
+          47001003,
+          47001304,
+          47001311
         ]
       },
       {
@@ -5745,15 +5769,23 @@
         "EquipmentRarityFlags": 128,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          47001401,
+          47001001,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
-          47001303
+          47001003,
+          47001404,
+          47001311
         ]
       },
       {
@@ -5763,17 +5795,27 @@
         "EquipmentRarityFlags": 256,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          47001401,
+          47001001,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
+          47001003,
           47001402,
-          47001303
+          47001003,
+          47001404,
+          47001311
         ]
       },
       {
@@ -5783,17 +5825,27 @@
         "EquipmentRarityFlags": 512,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          47001601,
+          47001001,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
+          47001003,
           47001602,
-          47001303
+          47001003,
+          47001604,
+          47001311
         ]
       }
     ],
