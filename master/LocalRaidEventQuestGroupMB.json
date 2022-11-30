@@ -2,12 +2,12 @@
   {
     "Id": 1,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_0~2日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100001,
-      10200001,
-      10300001
+      1000110,
+      1000108,
+      1000105
     ],
     "LocalRaidLevel": 1,
     "OverDayFromCreateWorldTime": 0
@@ -15,12 +15,12 @@
   {
     "Id": 2,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_2~4日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100002,
-      10200002,
-      10300002
+      1000210,
+      1000208,
+      1000205
     ],
     "LocalRaidLevel": 2,
     "OverDayFromCreateWorldTime": 2
@@ -28,12 +28,12 @@
   {
     "Id": 3,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_4~6日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100003,
-      10200003,
-      10300003
+      1000310,
+      1000308,
+      1000305
     ],
     "LocalRaidLevel": 3,
     "OverDayFromCreateWorldTime": 4
@@ -41,12 +41,12 @@
   {
     "Id": 4,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_6~8日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100004,
-      10200004,
-      10300004
+      1000410,
+      1000408,
+      1000405
     ],
     "LocalRaidLevel": 4,
     "OverDayFromCreateWorldTime": 6
@@ -54,12 +54,12 @@
   {
     "Id": 5,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_8~10日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100005,
-      10200005,
-      10300005
+      1000510,
+      1000508,
+      1000505
     ],
     "LocalRaidLevel": 5,
     "OverDayFromCreateWorldTime": 8
@@ -67,12 +67,12 @@
   {
     "Id": 6,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_10~12日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100006,
-      10200006,
-      10300006
+      1000610,
+      1000608,
+      1000605
     ],
     "LocalRaidLevel": 6,
     "OverDayFromCreateWorldTime": 10
@@ -80,12 +80,12 @@
   {
     "Id": 7,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_12~15日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100007,
-      10200007,
-      10300007
+      1000710,
+      1000708,
+      1000705
     ],
     "LocalRaidLevel": 7,
     "OverDayFromCreateWorldTime": 12
@@ -93,12 +93,12 @@
   {
     "Id": 8,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_15~17日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100008,
-      10200008,
-      10300008
+      1000810,
+      1000808,
+      1000805
     ],
     "LocalRaidLevel": 8,
     "OverDayFromCreateWorldTime": 15
@@ -106,12 +106,12 @@
   {
     "Id": 9,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_17~19日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100009,
-      10200009,
-      10300009
+      1000910,
+      1000908,
+      1000905
     ],
     "LocalRaidLevel": 9,
     "OverDayFromCreateWorldTime": 17
@@ -119,12 +119,12 @@
   {
     "Id": 10,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_19~21日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100010,
-      10200010,
-      10300010
+      1001010,
+      1001008,
+      1001005
     ],
     "LocalRaidLevel": 10,
     "OverDayFromCreateWorldTime": 19
@@ -132,12 +132,12 @@
   {
     "Id": 11,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_21~24日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100011,
-      10200011,
-      10300011
+      1001110,
+      1001108,
+      1001105
     ],
     "LocalRaidLevel": 11,
     "OverDayFromCreateWorldTime": 21
@@ -145,12 +145,12 @@
   {
     "Id": 12,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_24~26日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100012,
-      10200012,
-      10300012
+      1001210,
+      1001208,
+      1001205
     ],
     "LocalRaidLevel": 12,
     "OverDayFromCreateWorldTime": 24
@@ -158,12 +158,12 @@
   {
     "Id": 13,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_26~28日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100013,
-      10200013,
-      10300013
+      1001310,
+      1001308,
+      1001305
     ],
     "LocalRaidLevel": 13,
     "OverDayFromCreateWorldTime": 26
@@ -171,12 +171,12 @@
   {
     "Id": 14,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_28~31日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100014,
-      10200014,
-      10300014
+      1001410,
+      1001408,
+      1001405
     ],
     "LocalRaidLevel": 14,
     "OverDayFromCreateWorldTime": 28
@@ -184,12 +184,12 @@
   {
     "Id": 15,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_31~33日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100015,
-      10200015,
-      10300015
+      1001510,
+      1001508,
+      1001505
     ],
     "LocalRaidLevel": 15,
     "OverDayFromCreateWorldTime": 31
@@ -197,12 +197,12 @@
   {
     "Id": 16,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_33~36日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100016,
-      10200016,
-      10300016
+      1001610,
+      1001608,
+      1001605
     ],
     "LocalRaidLevel": 16,
     "OverDayFromCreateWorldTime": 33
@@ -210,12 +210,12 @@
   {
     "Id": 17,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_36~38日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100017,
-      10200017,
-      10300017
+      1001710,
+      1001708,
+      1001705
     ],
     "LocalRaidLevel": 17,
     "OverDayFromCreateWorldTime": 36
@@ -223,12 +223,12 @@
   {
     "Id": 18,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_38~41日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100018,
-      10200018,
-      10300018
+      1001810,
+      1001808,
+      1001805
     ],
     "LocalRaidLevel": 18,
     "OverDayFromCreateWorldTime": 38
@@ -236,12 +236,12 @@
   {
     "Id": 19,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_41~43日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100019,
-      10200019,
-      10300019
+      1001910,
+      1001908,
+      1001905
     ],
     "LocalRaidLevel": 19,
     "OverDayFromCreateWorldTime": 41
@@ -249,12 +249,12 @@
   {
     "Id": 20,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_43~46日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100020,
-      10200020,
-      10300020
+      1002010,
+      1002008,
+      1002005
     ],
     "LocalRaidLevel": 20,
     "OverDayFromCreateWorldTime": 43
@@ -262,12 +262,12 @@
   {
     "Id": 21,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_46~49日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100021,
-      10200021,
-      10300021
+      1002110,
+      1002108,
+      1002105
     ],
     "LocalRaidLevel": 21,
     "OverDayFromCreateWorldTime": 46
@@ -275,12 +275,12 @@
   {
     "Id": 22,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_49~51日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100022,
-      10200022,
-      10300022
+      1002210,
+      1002208,
+      1002205
     ],
     "LocalRaidLevel": 22,
     "OverDayFromCreateWorldTime": 49
@@ -288,12 +288,12 @@
   {
     "Id": 23,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_51~54日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100023,
-      10200023,
-      10300023
+      1002310,
+      1002308,
+      1002305
     ],
     "LocalRaidLevel": 23,
     "OverDayFromCreateWorldTime": 51
@@ -301,12 +301,12 @@
   {
     "Id": 24,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_54~57日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100024,
-      10200024,
-      10300024
+      1002410,
+      1002408,
+      1002405
     ],
     "LocalRaidLevel": 24,
     "OverDayFromCreateWorldTime": 54
@@ -314,12 +314,12 @@
   {
     "Id": 25,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_57~60日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100025,
-      10200025,
-      10300025
+      1002510,
+      1002508,
+      1002505
     ],
     "LocalRaidLevel": 25,
     "OverDayFromCreateWorldTime": 57
@@ -327,12 +327,12 @@
   {
     "Id": 26,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_60~63日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100026,
-      10200026,
-      10300026
+      1002610,
+      1002608,
+      1002605
     ],
     "LocalRaidLevel": 26,
     "OverDayFromCreateWorldTime": 60
@@ -340,12 +340,12 @@
   {
     "Id": 27,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_63~66日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100027,
-      10200027,
-      10300027
+      1002710,
+      1002708,
+      1002705
     ],
     "LocalRaidLevel": 27,
     "OverDayFromCreateWorldTime": 63
@@ -353,12 +353,12 @@
   {
     "Id": 28,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_66~69日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100028,
-      10200028,
-      10300028
+      1002810,
+      1002808,
+      1002805
     ],
     "LocalRaidLevel": 28,
     "OverDayFromCreateWorldTime": 66
@@ -366,12 +366,12 @@
   {
     "Id": 29,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_69~72日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100029,
-      10200029,
-      10300029
+      1002910,
+      1002908,
+      1002905
     ],
     "LocalRaidLevel": 29,
     "OverDayFromCreateWorldTime": 69
@@ -379,12 +379,12 @@
   {
     "Id": 30,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_72~75日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100030,
-      10200030,
-      10300030
+      1003010,
+      1003008,
+      1003005
     ],
     "LocalRaidLevel": 30,
     "OverDayFromCreateWorldTime": 72
@@ -392,12 +392,12 @@
   {
     "Id": 31,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_75~79日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100031,
-      10200031,
-      10300031
+      1003110,
+      1003108,
+      1003105
     ],
     "LocalRaidLevel": 31,
     "OverDayFromCreateWorldTime": 75
@@ -405,12 +405,12 @@
   {
     "Id": 32,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_79~82日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100032,
-      10200032,
-      10300032
+      1003210,
+      1003208,
+      1003205
     ],
     "LocalRaidLevel": 32,
     "OverDayFromCreateWorldTime": 79
@@ -418,12 +418,12 @@
   {
     "Id": 33,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_82~86日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100033,
-      10200033,
-      10300033
+      1003310,
+      1003308,
+      1003305
     ],
     "LocalRaidLevel": 33,
     "OverDayFromCreateWorldTime": 82
@@ -431,12 +431,12 @@
   {
     "Id": 34,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_86~89日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100034,
-      10200034,
-      10300034
+      1003410,
+      1003408,
+      1003405
     ],
     "LocalRaidLevel": 34,
     "OverDayFromCreateWorldTime": 86
@@ -444,12 +444,12 @@
   {
     "Id": 35,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_89~93日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100035,
-      10200035,
-      10300035
+      1003510,
+      1003508,
+      1003505
     ],
     "LocalRaidLevel": 35,
     "OverDayFromCreateWorldTime": 89
@@ -457,12 +457,12 @@
   {
     "Id": 36,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_93~96日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100036,
-      10200036,
-      10300036
+      1003610,
+      1003608,
+      1003605
     ],
     "LocalRaidLevel": 36,
     "OverDayFromCreateWorldTime": 93
@@ -470,12 +470,12 @@
   {
     "Id": 37,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_96~100日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100037,
-      10200037,
-      10300037
+      1003710,
+      1003708,
+      1003705
     ],
     "LocalRaidLevel": 37,
     "OverDayFromCreateWorldTime": 96
@@ -483,12 +483,12 @@
   {
     "Id": 38,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_100~104日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100038,
-      10200038,
-      10300038
+      1003810,
+      1003808,
+      1003805
     ],
     "LocalRaidLevel": 38,
     "OverDayFromCreateWorldTime": 100
@@ -496,12 +496,12 @@
   {
     "Id": 39,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_104~108日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100039,
-      10200039,
-      10300039
+      1003910,
+      1003908,
+      1003905
     ],
     "LocalRaidLevel": 39,
     "OverDayFromCreateWorldTime": 104
@@ -509,12 +509,12 @@
   {
     "Id": 40,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_108~112日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100040,
-      10200040,
-      10300040
+      1004010,
+      1004008,
+      1004005
     ],
     "LocalRaidLevel": 40,
     "OverDayFromCreateWorldTime": 108
@@ -522,12 +522,12 @@
   {
     "Id": 41,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_112~117日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100041,
-      10200041,
-      10300041
+      1004110,
+      1004108,
+      1004105
     ],
     "LocalRaidLevel": 41,
     "OverDayFromCreateWorldTime": 112
@@ -535,12 +535,12 @@
   {
     "Id": 42,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_117~121日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100042,
-      10200042,
-      10300042
+      1004210,
+      1004208,
+      1004205
     ],
     "LocalRaidLevel": 42,
     "OverDayFromCreateWorldTime": 117
@@ -548,12 +548,12 @@
   {
     "Id": 43,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_121~126日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100043,
-      10200043,
-      10300043
+      1004310,
+      1004308,
+      1004305
     ],
     "LocalRaidLevel": 43,
     "OverDayFromCreateWorldTime": 121
@@ -561,12 +561,12 @@
   {
     "Id": 44,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_126~130日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100044,
-      10200044,
-      10300044
+      1004410,
+      1004408,
+      1004405
     ],
     "LocalRaidLevel": 44,
     "OverDayFromCreateWorldTime": 126
@@ -574,12 +574,12 @@
   {
     "Id": 45,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_130~135日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100045,
-      10200045,
-      10300045
+      1004510,
+      1004508,
+      1004505
     ],
     "LocalRaidLevel": 45,
     "OverDayFromCreateWorldTime": 130
@@ -587,12 +587,12 @@
   {
     "Id": 46,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_135~140日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100046,
-      10200046,
-      10300046
+      1004610,
+      1004608,
+      1004605
     ],
     "LocalRaidLevel": 46,
     "OverDayFromCreateWorldTime": 135
@@ -600,12 +600,12 @@
   {
     "Id": 47,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_140~145日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100047,
-      10200047,
-      10300047
+      1004710,
+      1004708,
+      1004705
     ],
     "LocalRaidLevel": 47,
     "OverDayFromCreateWorldTime": 140
@@ -613,14 +613,27 @@
   {
     "Id": 48,
     "IsIgnore": null,
-    "Memo": null,
-    "EventBattleCount": 3,
+    "Memo": "クリ22_145~151日目",
+    "EventBattleCount": 2,
     "LocalRaidQuestIds": [
-      10100048,
-      10200048,
-      10300048
+      1004810,
+      1004808,
+      1004805
     ],
     "LocalRaidLevel": 48,
     "OverDayFromCreateWorldTime": 145
+  },
+  {
+    "Id": 49,
+    "IsIgnore": null,
+    "Memo": "クリ22_Pln1環境用EndTime10000倍",
+    "EventBattleCount": 2,
+    "LocalRaidQuestIds": [
+      1004910,
+      1004908,
+      1004905
+    ],
+    "LocalRaidLevel": 49,
+    "OverDayFromCreateWorldTime": 152
   }
 ]

@@ -243,8 +243,8 @@
     "IsIgnore": null,
     "Memo": "ギルドレイド解放ルーク",
     "ActiveSkillIds": [
-      30001,
-      30002
+      550230001,
+      550230002
     ],
     "BaseParameter": {
       "Energy": 14567,
@@ -471,8 +471,8 @@
     "NormalSkillId": 101,
     "PassiveSkillIds": [
       30003,
-      550230001,
-      550230002
+      550230006,
+      550230007
     ],
     "ReleasableGuildFame": 10000,
     "UnitIconId": 30,

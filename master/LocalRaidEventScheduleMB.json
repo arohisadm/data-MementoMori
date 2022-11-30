@@ -2,7 +2,7 @@
   {
     "Id": 1,
     "IsIgnore": null,
-    "Memo": null,
+    "Memo": "クリスマス2022",
     "LocalRaidEventQuestGroupIds": [
       1,
       2,
@@ -51,9 +51,10 @@
       45,
       46,
       47,
-      48
+      48,
+      49
     ],
-    "StartTime": "2120-01-01 00:00:00",
-    "EndTime": "2122-11-28 15:00:00"
+    "StartTime": "2022-11-30 17:30:00",
+    "EndTime": "2022-12-07 13:30:00"
   }
 ]

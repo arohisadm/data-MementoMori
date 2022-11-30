@@ -1851,6 +1851,27 @@
     "StartTime": null
   },
   {
+    "Id": 90,
+    "IsIgnore": null,
+    "Memo": "クリスマス宝箱",
+    "ChestKeyItemId": 0,
+    "DescriptionKey": "[TreasureChestDescription90]",
+    "DisplayNameKey": "[TreasureChestDisplayName90]",
+    "IconId": 108,
+    "ItemRarityFlags": 64,
+    "MaxItemCount": 0,
+    "MinOpenCount": 1,
+    "NameKey": "[TreasureChestName90]",
+    "SecondaryFrameNum": 0,
+    "SecondaryFrameType": 0,
+    "TreasureChestItemIdList": [
+      93
+    ],
+    "TreasureChestLotteryType": 0,
+    "EndTime": null,
+    "StartTime": null
+  },
+  {
     "Id": 999,
     "IsIgnore": null,
     "Memo": "運命ガチャ毎回報酬（潜在宝珠50＋精錬水50）、本番データ（削除禁止）",
