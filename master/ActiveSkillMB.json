@@ -4930,7 +4930,7 @@
   {
     "Id": 40001,
     "IsIgnore": null,
-    "Memo": "カロルSR",
+    "Memo": "カロルSR: /Lv1　その蝶の翅に触れた者は、一時的に記憶を失う――ランダムな敵2体に攻撃力×490％の魔法攻撃を行い、20％の確率で1ターンの間『沈黙』を付与する。　/Lv2 魔法攻撃のダメージが攻撃力×540%になる。　/Lv3 このスキルの対象がランダムな敵3体になる。　/専用1 忘却の翅を強化する。『沈黙』を付与する確率が35％になる。　/専用2 忘却の翅を強化する。『沈黙』を付与する確率が55％になる。　/専用3 忘却の翅を強化する。魔法攻撃のダメージが攻撃力×590%になる。",
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
@@ -5000,7 +5000,7 @@
   {
     "Id": 40002,
     "IsIgnore": null,
-    "Memo": "カロルSR",
+    "Memo": "カロルSR: /Lv1　記憶を奪う鱗粉を纏った蝶を使役し、ランダムな敵3体のバフを2つ解除する。怯んだ間隙を突き、対象に攻撃力×310%の魔法攻撃を行う。　/Lv2 魔法攻撃のダメージが攻撃力×365%になる。　/Lv3 さらにバフ解除の前に攻撃対象がバフを付帯していない場合、2ターンの間対象の防御力を40％減少させる。　/Lv4 このスキルの対象がランダムな敵5体になる。",
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
@@ -5480,7 +5480,7 @@
   {
     "Id": 44001,
     "IsIgnore": null,
-    "Memo": "【天泣の魔女】ルサールカSR:保留",
+    "Memo": "ルサールカ",
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
@@ -5489,7 +5489,47 @@
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          102001
+          44001001
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[ActiveSkillDescription440012]",
+        "CharacterLevel": 81,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44001201
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[ActiveSkillDescription440013]",
+        "CharacterLevel": 161,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44001301
+        ]
+      },
+      {
+        "OrderNumber": 4,
+        "DescriptionKey": "[ActiveSkillDescription440014]",
+        "CharacterLevel": 161,
+        "EquipmentRarityFlags": 128,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44001401
+        ]
+      },
+      {
+        "OrderNumber": 5,
+        "DescriptionKey": "[ActiveSkillDescription440015]",
+        "CharacterLevel": 181,
+        "EquipmentRarityFlags": 256,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44001501
         ]
       }
     ],
@@ -5500,7 +5540,7 @@
   {
     "Id": 44002,
     "IsIgnore": null,
-    "Memo": "【天泣の魔女】ルサールカSR:保留",
+    "Memo": "ルサールカ",
     "ActiveSkillInfos": [
       {
         "OrderNumber": 1,
@@ -5509,7 +5549,48 @@
         "EquipmentRarityFlags": 0,
         "BlessingItemId": 0,
         "SubSetSkillIds": [
-          102001
+          44002001,
+          44002002,
+          44002002
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[ActiveSkillDescription440022]",
+        "CharacterLevel": 21,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44002001,
+          44002002,
+          44002002,
+          44002002
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[ActiveSkillDescription440023]",
+        "CharacterLevel": 101,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44002301,
+          44002302,
+          44002302,
+          44002302
+        ]
+      },
+      {
+        "OrderNumber": 4,
+        "DescriptionKey": "[ActiveSkillDescription440024]",
+        "CharacterLevel": 181,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "SubSetSkillIds": [
+          44002401,
+          44002402,
+          44002402,
+          44002402
         ]
       }
     ],

@@ -3231,7 +3231,7 @@
   {
     "Id": 40003,
     "IsIgnore": null,
-    "Memo": "カロルSR",
+    "Memo": "カロルSR: /Lv1　やがて忘れてしまうからこそ、今の仲間を傷つける敵は許さない――その思いが運命に抗う力となる。味方が攻撃を受けたとき、自身のHPを自身の失ったHP×3％回復する。　/Lv2 HPの回復量が自身の失ったHP×5％になる。　/Lv3 HPの回復量が自身の失ったHP×7％になる。",
     "NameKey": "[PassiveSkillName40003]",
     "PassiveSkillInfos": [
       {
@@ -3302,7 +3302,7 @@
   {
     "Id": 40004,
     "IsIgnore": null,
-    "Memo": "カロルSR",
+    "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時に自身と攻撃力が最大の味方１名の防御力を15%アップ。/Lv2 防御力アップが30%になる。/ Lv3 防御力アップが50%になる。",
     "NameKey": "[PassiveSkillName40004]",
     "PassiveSkillInfos": [
       {
@@ -3313,10 +3313,16 @@
         "BlessingItemId": 0,
         "PassiveSubSetSkillInfos": [
           {
-            "PassiveTrigger": 42,
+            "PassiveTrigger": 1,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40004001
+          },
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 40004002
           }
         ]
       },
@@ -3328,10 +3334,16 @@
         "BlessingItemId": 0,
         "PassiveSubSetSkillInfos": [
           {
-            "PassiveTrigger": 42,
+            "PassiveTrigger": 1,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40004201
+          },
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 40004202
           }
         ]
       },
@@ -3343,10 +3355,16 @@
         "BlessingItemId": 0,
         "PassiveSubSetSkillInfos": [
           {
-            "PassiveTrigger": 42,
+            "PassiveTrigger": 1,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40004301
+          },
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 40004302
           }
         ]
       }
@@ -3679,7 +3697,7 @@
   {
     "Id": 44003,
     "IsIgnore": null,
-    "Memo": "【天泣の魔女】\\nルサールカSR",
+    "Memo": "ルサールカ",
     "NameKey": "[PassiveSkillName44003]",
     "PassiveSkillInfos": [
       {
@@ -3690,10 +3708,52 @@
         "BlessingItemId": 0,
         "PassiveSubSetSkillInfos": [
           {
-            "PassiveTrigger": 1,
+            "PassiveTrigger": 6,
             "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 105001
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 44003001
+          }
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[PassiveSkillDescription440032]",
+        "CharacterLevel": 121,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 6,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 44003001
+          },
+          {
+            "PassiveTrigger": 19,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 44003202
+          }
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[PassiveSkillDescription440033]",
+        "CharacterLevel": 201,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 6,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 44003001
+          },
+          {
+            "PassiveTrigger": 19,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 9999,
+            "SubSetSkillId": 44003302
           }
         ]
       }
@@ -3702,7 +3762,7 @@
   {
     "Id": 44004,
     "IsIgnore": null,
-    "Memo": "【天泣の魔女】\\nルサールカSR",
+    "Memo": "ルサールカ",
     "NameKey": "[PassiveSkillName44004]",
     "PassiveSkillInfos": [
       {
@@ -3716,7 +3776,60 @@
             "PassiveTrigger": 1,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 105001
+            "SubSetSkillId": 44004001
+          }
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[PassiveSkillDescription440042]",
+        "CharacterLevel": 141,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 44004201
+          }
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[PassiveSkillDescription440043]",
+        "CharacterLevel": 221,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 44004301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 44005,
+    "IsIgnore": null,
+    "Memo": "ルサールカ5",
+    "NameKey": "[PassiveSkillName44005]",
+    "PassiveSkillInfos": [
+      {
+        "OrderNumber": 1,
+        "DescriptionKey": "[PassiveSkillDescription440051]",
+        "CharacterLevel": 240,
+        "EquipmentRarityFlags": 512,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 44005001
           }
         ]
       }
