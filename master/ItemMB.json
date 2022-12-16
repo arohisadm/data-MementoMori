@@ -1328,5 +1328,24 @@
     "SortOrder": 0,
     "StartTime": "2022-11-28 00:00:00",
     "TransferSpotId": 14
+  },
+  {
+    "Id": 71,
+    "IsIgnore": null,
+    "Memo": "期間限定ミッションメダル",
+    "DescriptionKey": "[ItemDescription64]",
+    "DisplayName": "[ItemDisplayName64]",
+    "EndTime": null,
+    "ItemId": 5,
+    "ItemRarityFlags": 64,
+    "ItemType": 28,
+    "MaxItemCount": 0,
+    "NameKey": "[ItemName64]",
+    "IconId": 82,
+    "SecondaryFrameNum": 0,
+    "SecondaryFrameType": 0,
+    "SortOrder": 0,
+    "StartTime": null,
+    "TransferSpotId": 0
   }
 ]

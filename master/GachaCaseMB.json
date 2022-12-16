@@ -458,7 +458,7 @@
   {
     "Id": 25,
     "IsIgnore": null,
-    "Memo": "カロル新キャラガチャ 12/15 16:30 ~ 12/28 14:29",
+    "Memo": "カロル新キャラガチャ 12/15 17:30 ~ 12/28 14:29",
     "DisplayOrder": 19005,
     "ElementType": 0,
     "GachaCaseUiId": 24,
@@ -471,7 +471,7 @@
     "GachaSelectListId": 1,
     "GachaCaseFlags": 0,
     "GachaLimitDayFromCreatePlayer": 0,
-    "StartTimeFixJST": "2022-12-15 16:30:00",
+    "StartTimeFixJST": "2022-12-15 17:30:00",
     "EndTimeFixJST": "2022-12-28 14:29:59"
   }
 ]

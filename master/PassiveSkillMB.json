@@ -3248,7 +3248,7 @@
             "SubSetSkillId": 40003001
           },
           {
-            "PassiveTrigger": 8,
+            "PassiveTrigger": 29,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40003001
@@ -3269,7 +3269,7 @@
             "SubSetSkillId": 40003201
           },
           {
-            "PassiveTrigger": 8,
+            "PassiveTrigger": 29,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40003201
@@ -3290,7 +3290,7 @@
             "SubSetSkillId": 40003301
           },
           {
-            "PassiveTrigger": 8,
+            "PassiveTrigger": 29,
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40003301
@@ -3302,7 +3302,7 @@
   {
     "Id": 40004,
     "IsIgnore": null,
-    "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時に自身と攻撃力が最大の味方１名の防御力を15%アップ。/Lv2 防御力アップが30%になる。/ Lv3 防御力アップが50%になる。",
+    "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時味方５名の防御力を15％増加させる。/ Lv2 防御力の増加量が25％になる。/ Lv2 さらに自身の防御力を95%増加させる（永続、解除可能）",
     "NameKey": "[PassiveSkillName40004]",
     "PassiveSkillInfos": [
       {
@@ -3317,12 +3317,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40004001
-          },
-          {
-            "PassiveTrigger": 1,
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 40004002
           }
         ]
       },
@@ -3338,12 +3332,6 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 40004201
-          },
-          {
-            "PassiveTrigger": 1,
-            "SkillCoolTime": 0,
-            "SkillMaxCoolTime": 0,
-            "SubSetSkillId": 40004202
           }
         ]
       },
@@ -7216,6 +7204,77 @@
             "SkillCoolTime": 0,
             "SkillMaxCoolTime": 0,
             "SubSetSkillId": 39003301
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 550340004,
+    "IsIgnore": null,
+    "Memo": "カロルSR: /Lv1　忘れてしまえば、痛みはない。バトル開始時に自身と攻撃力が最大の味方１名の防御力を15%アップ。/Lv2 防御力アップが30%になる。/ Lv3 防御力アップが50%になる。",
+    "NameKey": "[PassiveSkillName40004]",
+    "PassiveSkillInfos": [
+      {
+        "OrderNumber": 1,
+        "DescriptionKey": "[PassiveSkillDescription400041]",
+        "CharacterLevel": 61,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550340004001
+          },
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550340004002
+          }
+        ]
+      },
+      {
+        "OrderNumber": 2,
+        "DescriptionKey": "[PassiveSkillDescription400042]",
+        "CharacterLevel": 141,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550340004201
+          },
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550340004202
+          }
+        ]
+      },
+      {
+        "OrderNumber": 3,
+        "DescriptionKey": "[PassiveSkillDescription400043]",
+        "CharacterLevel": 221,
+        "EquipmentRarityFlags": 0,
+        "BlessingItemId": 0,
+        "PassiveSubSetSkillInfos": [
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550340004301
+          },
+          {
+            "PassiveTrigger": 1,
+            "SkillCoolTime": 0,
+            "SkillMaxCoolTime": 0,
+            "SubSetSkillId": 550340004302
           }
         ]
       }

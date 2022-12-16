@@ -69,7 +69,7 @@
     "Memo": null,
     "BattleScheduleType": 1,
     "MaxQuestId": 560,
-    "StartTimeFixJST": "2023-01-24 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 10,
@@ -77,7 +77,7 @@
     "Memo": null,
     "BattleScheduleType": 1,
     "MaxQuestId": 588,
-    "StartTimeFixJST": "2023-02-22 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 11,
@@ -85,7 +85,7 @@
     "Memo": null,
     "BattleScheduleType": 1,
     "MaxQuestId": 616,
-    "StartTimeFixJST": "2023-03-23 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 12,
@@ -93,7 +93,7 @@
     "Memo": null,
     "BattleScheduleType": 1,
     "MaxQuestId": 644,
-    "StartTimeFixJST": "2023-05-22 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 13,
@@ -101,7 +101,7 @@
     "Memo": null,
     "BattleScheduleType": 2,
     "MaxQuestId": 430,
-    "StartTimeFixJST": "2022-12-09 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 14,
@@ -109,7 +109,7 @@
     "Memo": null,
     "BattleScheduleType": 2,
     "MaxQuestId": 460,
-    "StartTimeFixJST": "2023-1-10 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 15,
@@ -117,7 +117,7 @@
     "Memo": null,
     "BattleScheduleType": 2,
     "MaxQuestId": 490,
-    "StartTimeFixJST": "2023-2-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 16,
@@ -125,7 +125,7 @@
     "Memo": null,
     "BattleScheduleType": 2,
     "MaxQuestId": 520,
-    "StartTimeFixJST": "2023-3-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 17,
@@ -133,7 +133,7 @@
     "Memo": null,
     "BattleScheduleType": 2,
     "MaxQuestId": 550,
-    "StartTimeFixJST": "2023-4-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 18,
@@ -141,7 +141,7 @@
     "Memo": null,
     "BattleScheduleType": 2,
     "MaxQuestId": 580,
-    "StartTimeFixJST": "2023-6-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 19,
@@ -149,7 +149,7 @@
     "Memo": null,
     "BattleScheduleType": 3,
     "MaxQuestId": 20270,
-    "StartTimeFixJST": "2022-12-09 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 20,
@@ -157,7 +157,7 @@
     "Memo": null,
     "BattleScheduleType": 3,
     "MaxQuestId": 20300,
-    "StartTimeFixJST": "2023-1-10 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 21,
@@ -165,7 +165,7 @@
     "Memo": null,
     "BattleScheduleType": 3,
     "MaxQuestId": 20330,
-    "StartTimeFixJST": "2023-2-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 22,
@@ -173,7 +173,7 @@
     "Memo": null,
     "BattleScheduleType": 3,
     "MaxQuestId": 20360,
-    "StartTimeFixJST": "2023-3-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 23,
@@ -181,7 +181,7 @@
     "Memo": null,
     "BattleScheduleType": 3,
     "MaxQuestId": 20390,
-    "StartTimeFixJST": "2023-4-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 24,
@@ -189,7 +189,7 @@
     "Memo": null,
     "BattleScheduleType": 3,
     "MaxQuestId": 20420,
-    "StartTimeFixJST": "2023-6-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 25,
@@ -197,7 +197,7 @@
     "Memo": null,
     "BattleScheduleType": 4,
     "MaxQuestId": 30270,
-    "StartTimeFixJST": "2022-12-09 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 26,
@@ -205,7 +205,7 @@
     "Memo": null,
     "BattleScheduleType": 4,
     "MaxQuestId": 30300,
-    "StartTimeFixJST": "2023-1-10 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 27,
@@ -213,7 +213,7 @@
     "Memo": null,
     "BattleScheduleType": 4,
     "MaxQuestId": 30330,
-    "StartTimeFixJST": "2023-2-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 28,
@@ -221,7 +221,7 @@
     "Memo": null,
     "BattleScheduleType": 4,
     "MaxQuestId": 30360,
-    "StartTimeFixJST": "2023-3-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 29,
@@ -229,7 +229,7 @@
     "Memo": null,
     "BattleScheduleType": 4,
     "MaxQuestId": 30390,
-    "StartTimeFixJST": "2023-4-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 30,
@@ -237,7 +237,7 @@
     "Memo": null,
     "BattleScheduleType": 4,
     "MaxQuestId": 30420,
-    "StartTimeFixJST": "2023-6-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 31,
@@ -245,7 +245,7 @@
     "Memo": null,
     "BattleScheduleType": 5,
     "MaxQuestId": 40270,
-    "StartTimeFixJST": "2022-12-09 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 32,
@@ -253,7 +253,7 @@
     "Memo": null,
     "BattleScheduleType": 5,
     "MaxQuestId": 40300,
-    "StartTimeFixJST": "2023-1-10 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 33,
@@ -261,7 +261,7 @@
     "Memo": null,
     "BattleScheduleType": 5,
     "MaxQuestId": 40330,
-    "StartTimeFixJST": "2023-2-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 34,
@@ -269,7 +269,7 @@
     "Memo": null,
     "BattleScheduleType": 5,
     "MaxQuestId": 40360,
-    "StartTimeFixJST": "2023-3-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 35,
@@ -277,7 +277,7 @@
     "Memo": null,
     "BattleScheduleType": 5,
     "MaxQuestId": 40390,
-    "StartTimeFixJST": "2023-4-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 36,
@@ -285,7 +285,7 @@
     "Memo": null,
     "BattleScheduleType": 5,
     "MaxQuestId": 40420,
-    "StartTimeFixJST": "2023-6-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 37,
@@ -293,7 +293,7 @@
     "Memo": null,
     "BattleScheduleType": 6,
     "MaxQuestId": 50270,
-    "StartTimeFixJST": "2022-12-09 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 38,
@@ -301,7 +301,7 @@
     "Memo": null,
     "BattleScheduleType": 6,
     "MaxQuestId": 50300,
-    "StartTimeFixJST": "2023-1-10 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 39,
@@ -309,7 +309,7 @@
     "Memo": null,
     "BattleScheduleType": 6,
     "MaxQuestId": 50330,
-    "StartTimeFixJST": "2023-2-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 40,
@@ -317,7 +317,7 @@
     "Memo": null,
     "BattleScheduleType": 6,
     "MaxQuestId": 50360,
-    "StartTimeFixJST": "2023-3-8 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 41,
@@ -325,7 +325,7 @@
     "Memo": null,
     "BattleScheduleType": 6,
     "MaxQuestId": 50390,
-    "StartTimeFixJST": "2023-4-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   },
   {
     "Id": 42,
@@ -333,6 +333,6 @@
     "Memo": null,
     "BattleScheduleType": 6,
     "MaxQuestId": 50420,
-    "StartTimeFixJST": "2023-6-7 15:00:00"
+    "StartTimeFixJST": "2100-12-09 15:00:00"
   }
 ]
